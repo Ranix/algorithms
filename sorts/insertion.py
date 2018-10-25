@@ -23,7 +23,5 @@ if __name__ == '__main__':
     # n = [54, 26, 93, 17, 77, 31, 44, 55, 20]
     # n = [-54, -26, -93, -17, -77, -44, -55, -20]
     n = [random.randrange(1, 1000) for _ in range(0, 10000)]
-    # print(n)
-    #for j in range(i)
-    #    n.append(random())
     insertion(n)
+    print(n)
